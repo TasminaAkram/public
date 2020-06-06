@@ -1,0 +1,82 @@
+.navbar{
+    background-color: #E91E63 !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+    font-family: cursive ;
+    padding-right: 20px !important;
+
+}
+
+.heading{
+    color: #880E4F !important;
+    font-family: cursive ;
+    font-weight: bolder;
+}
+.fa-shopping-cart, .fa-user{
+    font-size: 24px;
+}
+.carousel-caption{
+    font-weight: bolder;
+}
+.like {
+    font-size: 1.5rem;
+  }
+  .fa-shopping-cart{
+      font-size: 30px !important;
+      margin-right: 20px;
+      color: #880E4F;
+  }
+  
+  .card1,.card2,.card3{
+        display: flex;
+        width: 100%;
+        height: 60px;
+        box-shadow: 2px 4px 5px grey; 
+        justify-content: center;
+        align-items: center; 
+        margin-bottom: 50px;          
+    }
+    .Bottom{
+        background-color: #AD1457 ;
+    }
+    .text{
+        color: #3E2723;
+        
+    }
+    .fa-phone, .fa-envelope{
+        color:#F8BBD0 ;
+    }
+    .fa-facebook-official, .fa-twitter-square, .fa-instagram, .fa-youtube-play{
+        color: white;
+        font-size: 30px;
+    }
+    .footer{
+        background-color: #FF80AB;
+    }
+    h1{
+        background-color: #D81B60;
+        color: #880E4F !important;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .card-img{
+        width: 100%;
+        height: 350px;
+    }
+    .aboutus{
+        text-align: center;
+        margin: 50px;
+        text-align: justify;
+    
+    }
+    h2{
+        margin-left: 40px;
+        font-weight: bolder;
+        
+    }
+ 
